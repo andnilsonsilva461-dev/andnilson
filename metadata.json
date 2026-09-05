@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sabor Da Roça",
+  "description": "Tapiocas, Cuscuz, Cafés e Bolos no Shopping Avenida | Feira de Santana - BA",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
